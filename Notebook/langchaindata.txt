@@ -1,0 +1,1 @@
+Langchain is a framework for developing applications powered by language models. It provides a standard interface for chains, data connection, and integrations with various tools. One interesting fact is that it is open-source and has a very active community, constantly adding new features and integrations.
